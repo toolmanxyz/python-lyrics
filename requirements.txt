@@ -1,0 +1,6 @@
+pydub
+moviepy
+numpy
+Pillow
+gradio
+requests
